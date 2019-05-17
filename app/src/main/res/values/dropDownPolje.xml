@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_zupanija">
+        <item>Molimo odaberite županiju</item>
+        <item>Unsko-sanski kanton</item>
+        <item>Županija Posavska</item>
+        <item>Tuzlanski kanton</item>
+        <item>Zeničko-dobojski kanton</item>
+        <item>Bosansko-podrinjska županija</item>
+        <item>Srednjobosanski kanton</item>
+        <item>Hercegovačko-neretvanska županija</item>
+        <item>Županija Zapadnohercegovačka</item>
+        <item>Kanton Sarajevo</item>
+        <item>Kanton 10. Livanjski kanton</item>
+        <item>Republika Srpska</item>
+    </string-array>
+    
+</resources>

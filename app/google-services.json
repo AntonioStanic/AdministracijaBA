@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "713909007408",
+    "firebase_url": "https://programiranjeregistracijaba.firebaseio.com",
+    "project_id": "programiranjeregistracijaba",
+    "storage_bucket": "programiranjeregistracijaba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713909007408:android:aaf32515c906e8ab",
+        "android_client_info": {
+          "package_name": "com.example.administracijaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713909007408-dh94ja61m07tc77phgtp6a5p1gcmndru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_oRI9mtXIQBgR1Co0tdD42A8zrqhxCiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713909007408:android:4954df7172aec425",
+        "android_client_info": {
+          "package_name": "com.example.programiranjeregistracijaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713909007408-dh94ja61m07tc77phgtp6a5p1gcmndru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_oRI9mtXIQBgR1Co0tdD42A8zrqhxCiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
